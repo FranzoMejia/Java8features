@@ -1,4 +1,4 @@
-package Java;
+package org.example;
 
 import java.io.UnsupportedEncodingException;
 import java.time.DayOfWeek;
@@ -26,7 +26,7 @@ import java.util.Base64;
 
 public class Java {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		System.out.println("Hola Mundo");
 		//LambdaExp();
 		//MethodReference();
@@ -34,7 +34,7 @@ public class Java {
 		//OptionalClass();
 		//DateTimeApi();
 		Base64();
-	}
+	}*/
 	
 	private static void Base64() {
 		try {
